@@ -14,5 +14,6 @@ Performance Details:
 Under heavy contention, performs equally to Double Idiom
 Under normal contention, it is slightly slower by 5%. 
 
+Please refer wiki for more Information
 
 
